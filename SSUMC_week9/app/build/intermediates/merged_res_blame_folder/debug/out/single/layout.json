@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\LG_gram\\.gradle\\daemon\\7.4\\com.example.ssumc_week9.app-mergeDebugResources-28:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\LG_gram\\.gradle\\daemon\\7.4\\com.example.ssumc_week9.app-main-31:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "com.example.ssumc_week9.app-mergeDebugResources-28:/layout/activity_main3.xml",
+        "source": "com.example.ssumc_week9.app-main-31:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG_gram\\.gradle\\daemon\\7.4\\com.example.ssumc_week9.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LG_gram\\.gradle\\daemon\\7.4\\com.example.ssumc_week9.app-main-31:\\layout\\activity_main.xml"
+    }
+]

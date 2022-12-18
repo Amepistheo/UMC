@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:weightSum="5">
+        <TextView
+            android:id="@+id/id_number"
+            android:text="01"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:textSize="30dp"/>
+
+        <TextView
+             android:id="@+id/text_title"
+             android:text="title"
+             android:layout_width="0dp"
+             android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="메모추가"
+            android:textSize="15dp"/>
+
+
+</LinearLayout>

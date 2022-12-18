@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:collapseColumns="3"
+    android:stretchColumns="*">
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/view1"
+            android:layout_height="50dp"
+            android:background="#7461ac"
+            android:text="표1" />
+
+        <TextView
+            android:id="@+id/view2"
+            android:layout_height="50dp"
+            android:background="#999999"
+            android:text="표2" />
+
+        <TextView
+            android:id="@+id/view3"
+            android:layout_height="50dp"
+            android:background="#9B19B5"
+            android:text="표3" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/view4"
+            android:layout_height="50dp"
+            android:background="#113366"
+            android:text="표4" />
+
+        <TextView
+            android:id="@+id/view5"
+            android:layout_height="50dp"
+            android:background="#77aa00"
+            android:text="표5" />
+
+        <TextView
+            android:id="@+id/view6"
+            android:layout_height="50dp"
+            android:background="#FF7AA0"
+            android:text="표6" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/view8"
+            android:layout_height="50dp"
+            android:background="#7CF1D1"
+            android:text="표7" />
+
+        <TextView
+            android:id="@+id/view9"
+            android:layout_height="50dp"
+            android:background="#CBE886"
+            android:text="표8" />
+
+        <TextView
+            android:id="@+id/view10"
+            android:layout_height="50dp"
+            android:background="#8ABDE6"
+            android:text="표9" />
+    </TableRow>
+</TableLayout>

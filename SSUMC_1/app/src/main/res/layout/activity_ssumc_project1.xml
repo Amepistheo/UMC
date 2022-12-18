@@ -1,0 +1,25 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="SSUMC"
+        android:background="#e6e6e6"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="포키의"
+        android:background="#e6aabb"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="linearlayout"
+        android:background="#aabbcc"
+        android:textSize="20sp" />
+</LinearLayout>

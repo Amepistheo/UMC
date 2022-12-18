@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ssumc_week9"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:7:5-57:19
+14        android:allowBackup="true"
+14-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\LG_gram\.gradle\caches\transforms-3\205feb206244c8c1b4b56fcdc8d69988\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:10:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.SSUMC_week9"
+24-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:15:9-49
+25        android:usesCleartextTraffic="true" >
+25-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:16:9-44
+26        <activity
+26-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:18:9-30:20
+27            android:name="com.example.ssumc_week9.MainActivity3"
+27-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:19:13-42
+28            android:exported="true" >
+28-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:20:13-36
+29            <intent-filter>
+29-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:22:17-69
+30-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:24:17-77
+32-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34
+35            <meta-data
+35-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:27:13-29:36
+36                android:name="android.app.lib_name"
+36-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:28:17-52
+37                android:value="" />
+37-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:29:17-33
+38        </activity>
+39        <activity
+39-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:31:9-43:20
+40            android:name="com.example.ssumc_week9.MainActivity2"
+40-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:32:13-42
+41            android:exported="true" >
+41-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:33:13-36
+42            <intent-filter>
+42-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:21:13-25:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:22:17-69
+43-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:22:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:24:17-77
+45-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:24:27-74
+46            </intent-filter>
+47
+48            <meta-data
+48-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:27:13-29:36
+49                android:name="android.app.lib_name"
+49-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:28:17-52
+50                android:value="" />
+50-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:29:17-33
+51        </activity>
+52        <activity
+52-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:44:9-56:20
+53            android:name="com.example.ssumc_week9.MainActivity"
+53-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:45:13-41
+54            android:exported="true" >
+54-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:46:13-36
+55            <intent-filter>
+55-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:21:13-25:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:22:17-69
+56-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:22:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:24:17-77
+58-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:24:27-74
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:27:13-29:36
+62                android:name="android.app.lib_name"
+62-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:28:17-52
+63                android:value="" />
+63-->C:\Users\LG_gram\AndroidStudioProjects\SSUMC\SSUMC_week9\app\src\main\AndroidManifest.xml:29:17-33
+64        </activity>
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+68            android:authorities="com.example.ssumc_week9.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LG_gram\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LG_gram\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LG_gram\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LG_gram\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+76        </provider>
+77    </application>
+78
+79</manifest>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SSUMC_week2</string>
+    <string name="dashboard">대시보드</string>
+    <string name="major">과목</string>
+    <string name="edit">대시보드 편집</string>
+    <string name="view1">2022-2학기 재학생</string>
+    <string name="calender">캘린더</string>
+    <string name="date">2022년 10월</string>
+    <string name="sun">일</string>
+    <string name="mon">월</string>
+    <string name="tue">화</string>
+    <string name="wed">수</string>
+    <string name="thu">목</string>
+    <string name="fri">금</string>
+    <string name="sat">토</string>
+    <string name="tf">25</string>
+    <string name="ts">26</string>
+    <string name="ts2">27</string>
+    <string name="te">28</string>
+    <string name="tn">29</string>
+    <string name="tt">30</string>
+    <string name="one">1</string>
+    <string name="cg">컴퓨터구조(대면+사전녹화) \n Lecture 07 \n 10월 1일, 오후 11:59 마감</string>
+    <string name="algo">제출하기 ALGO_W04_2 \n 알고리즘(대면+사전녹화) \n 마감일: 2022.10.1 11:59 오후</string>
+    <string name="web">제출하기 4주차_WebPro \n 웹프로그래밍기초(대면+사전녹화) \n 마감일: 2022.10.2 11:59 오후</string>
+    <string name="web2">제출하기 4주차_Web수업자료 \n 웹프로그래밍기초(대면+사전녹화) \n 마감일: 2022.10.2 11:59 오후</string>
+    <string name="web3">제출하기 4주차_media파일 \n 웹프로그래밍기초(대면+사전녹화) \n 마감일: 2022.10.2 11:59 오후</string>
+    <string name="data">제출하기 4.표본 실데이터 불러들이기 \n 데이터분석(대면+사전녹화) \n 마감일: 2022.10.3 11:59 오후</string>
+    <string name="due">2022. 10. 1.</string>
+    <string name="due2">2022. 10. 2</string>
+    <string name="due3">2022. 10. 3</string>
+    <string name="submit">제출함</string>
+    <string name="alarm">해야 할 일</string>
+
+</resources>
